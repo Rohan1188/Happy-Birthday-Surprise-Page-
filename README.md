@@ -9,7 +9,7 @@ A fun, interactive, and beautiful HTML-based birthday greeting webpage made with
 - Background music with play/pause and volume controls
 - Typewriter animation and transition to a surprise page
 
-## 🚀 Live Demo
+## 🚀 Live Demo : https://happy-birthday-surprise-page.vercel.app
 
 Just open `index.html` in any modern browser.
 
